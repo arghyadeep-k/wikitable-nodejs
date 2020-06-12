@@ -9,7 +9,7 @@
     "stop": "pkill --signal SIGINT wikidata-tree",
     "dev": "nodemon ./bin/www"
   },
-  "main": "app.js",
+  "main": "functions/server.js",
   "dependencies": {
     "async": "^3.2.0",
     "cookie-parser": "~1.4.4",
