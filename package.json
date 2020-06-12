@@ -6,7 +6,7 @@
     "start": "node ./bin/www",
     "build": "netlify-lambda build express",
     "stop": "pkill --signal SIGINT wikidata-tree",
-    "dev": "nodemon ./bin/www"    
+    "dev": "nodemon ./bin/www"
   },
   "main": "app.js",
   "dependencies": {
