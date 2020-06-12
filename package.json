@@ -20,6 +20,7 @@
     "memory-cache": "^0.2.0",
     "moment": "^2.25.3",
     "morgan": "~1.9.1",
+    "netlify-lambda": "^1.6.3",
     "node-cache": "^5.1.0",
     "node-fetch": "^2.6.0",
     "pm2": "^4.4.0",
